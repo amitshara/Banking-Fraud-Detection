@@ -16,5 +16,7 @@ This project focuses on analyzing banking transaction data to uncover fraud patt
 *Advanced SQL queries including window functions and subqueries
 
 --Tools Used:
-
 SQL (MySQL/PostgreSQL)
+
+
+DataSet link :- https://www.kaggle.com/datasets/ealaxi/paysim1
