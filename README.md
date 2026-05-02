@@ -8,7 +8,7 @@ This project focuses on analyzing banking transaction data to uncover fraud patt
 *Detect fraudulent transactions using SQL-based rules
 *Identify high-risk customers and unusual transaction patterns
 
---Key Features:
+--Key Features:      
 
 *Fraud detection using balance validation and transaction thresholds
 *Customer segmentation based on transaction activity
