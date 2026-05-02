@@ -1,7 +1,7 @@
 Project Overview:
 This project focuses on analyzing banking transaction data to uncover fraud patterns and customer behavior using SQL.
 
-Key Objectives:
+Key Objectives:   
 
 1.Perform data cleaning and preprocessing
 2.Analyze transaction trends and distributions
