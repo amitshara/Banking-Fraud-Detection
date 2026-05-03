@@ -5,4 +5,4 @@ TRANSFER
 CASH_OUT
 3.Large transactions have higher fraud probability
 4.Balance inconsistencies strongly indicate fraud
-5.Few accounts are responsible for multiple fraud attempts
+5.Few accounts are responsible for multiple fraud attempts. 
