@@ -6,7 +6,7 @@ Key Objectives:
 1.Perform data cleaning and preprocessing
 2.Analyze transaction trends and distributions
 3.Detect fraudulent transactions using SQL-based rules
-4.Identify high-risk customers and unusual transaction patterns
+4.Identify high-risk customers and unusual transaction patterns.    
 
 Key Features:
 
