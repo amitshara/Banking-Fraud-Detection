@@ -16,3 +16,4 @@ using dataset link :- https://www.kaggle.com/datasets/ealaxi/paysim1
 13.Find top 10 Fraudulent Accounts
 14.Give Rank to Customers by their Transaction Amount
 15.create a fraud signal which give probablity for fraud happening
+  
