@@ -12,5 +12,5 @@ CREATE TABLE transactions (
     isFlaggedFraud INT
 );
 
-        
+           
 select * from transactions
