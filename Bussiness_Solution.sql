@@ -9,7 +9,7 @@ WHERE amount IS NULL;
 
 
 
-
+ 
 --checking for duplicates
 SELECT nameOrig, amount, COUNT(*)
 FROM transactions
