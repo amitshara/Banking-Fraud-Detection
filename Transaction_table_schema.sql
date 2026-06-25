@@ -10,7 +10,7 @@ CREATE TABLE transactions (
     newbalanceDest DECIMAL(12,2),
     isFraud INT,
     isFlaggedFraud INT
-);
+); 
 
            
 select * from transactions
