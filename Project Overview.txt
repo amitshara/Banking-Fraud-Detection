@@ -9,7 +9,7 @@ Key Objectives:
 4.Identify high-risk customers and unusual transaction patterns.    
 
 Key Features:
-
+  
 1.Fraud detection using balance validation and transaction thresholds
 2.Customer segmentation based on transaction activity
 3.time-based transaction analysis
