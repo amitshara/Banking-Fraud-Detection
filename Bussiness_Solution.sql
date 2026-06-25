@@ -1,7 +1,7 @@
       
 ---- Bussiness problems solution
 
-
+  
 --cheking for null value
 SELECT *
 FROM transactions
