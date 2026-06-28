@@ -7,7 +7,7 @@ SELECT *
 FROM transactions
 WHERE amount IS NULL;
 
-
+ 
 
  
 --checking for duplicates
