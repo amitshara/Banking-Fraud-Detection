@@ -7,4 +7,4 @@ CASH_OUT
 4.Balance inconsistencies strongly indicate fraud
 5.Few accounts are responsible for multiple fraud attempts.               
   
-  
+    
