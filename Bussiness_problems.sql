@@ -17,3 +17,4 @@ using dataset link :- https://www.kaggle.com/datasets/ealaxi/paysim1
 14.Give Rank to Customers by their Transaction Amount
 15.create a fraud signal which give probablity for fraud happening
   
+ 
